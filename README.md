@@ -1,4 +1,4 @@
-[net/http](https://pkg.go.dev/net/http) is the standard's library package for writing HTTP servers (and clients). It has two important components: the  `ListenAndServe` function and the `Handler` inteface:
+[net/http](https://pkg.go.dev/net/http) is the standard's library package for writing HTTP servers (and clients). It has two important components: the  `ListenAndServe` function and the `Handler` interface:
 
 ```go
 package http
